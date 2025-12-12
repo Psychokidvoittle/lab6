@@ -14,20 +14,7 @@
 
 Тема: Новостная система с использованием Elasticsearch для поиска.
 
-📁 Структура проекта
-lab6/
-├── docker-compose.yml
-├── Dockerfile
-├── nginx.conf
-├── README.md
-└── www/
-├── index.php
-├── composer.json
-└── App/
-├── RedisExample.php
-├── ElasticExample.php
-└── Helpers/
-└── ClientFactory.php
+
 🐳 Docker контейнеры
 | Сервис | Порт | Назначение |
 |--------|------|------------|
